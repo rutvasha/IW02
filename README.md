@@ -1,4 +1,4 @@
-# Project Summary
+# EMOTIONAL CRESCENDOS: Exploring How Intra-Song Sentiment Influences Musical Trends
 
 This project focuses on analyzing and predicting song popularity by leveraging regression techniques and emotional data. The notebooks cover tasks such as sentiment analysis, data preprocessing, and trend extrapolation, aiming to uncover the relationship between emotional patterns in music and its popularity. To run the code, 'RUN ALL' cells in the notebooks in the order listed below.
 
